@@ -1,7 +1,7 @@
 # HPC & ML 
 Horovod + AMLS demo
 
-Azure VMs with support of RDMA (InfiniBand)   
+Azure VMs with support of RDMA & InfiniBand   
 https://docs.microsoft.com/en-us/azure/batch/batch-pool-compute-intensive-sizes#main
 
 Horovod intro:
@@ -14,10 +14,10 @@ Distributed Tensorflow:
 https://www.tensorflow.org/guide/distribute_strategy
 
 ## Examples:
-AMLS 
+AMLS    
 https://notebooks.azure.com/azureml/projects/azureml-getting-started/html/how-to-use-azureml/training-with-deep-learning/distributed-tensorflow-with-horovod/distributed-tensorflow-with-horovod.ipynb 
 
-Databricks
+Databricks 
 https://databricks.com/tensorflow/getting-started-with-tensorflow-on-databricks#resources
 https://docs.databricks.com/applications/deep-learning/distributed-training/mnist-tensorflow-keras.html
 
