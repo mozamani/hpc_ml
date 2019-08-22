@@ -1,4 +1,4 @@
-## Distributed Training & HPC 
+# Distributed Training & HPC 
 ### Horovod 
 1) Reference architectures for distributed training of deep learning models (on GPU) - this is an architecture for data-parallel distributed training with synchronous updates using [**Horovod**](https://github.com/horovod/horovod).<br> 
 https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/training-deep-learning  
