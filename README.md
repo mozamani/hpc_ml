@@ -23,6 +23,8 @@ https://docs.microsoft.com/en-us/azure/batch/batch-pool-compute-intensive-sizes#
 
 8) Azure HPC environment [repo](https://github.com/Azure/azurehpc) + CycleCloud [tutorials](https://github.com/CycleCloud/cyclecloud_tutorials) & batchai [examples](https://github.com/tojozefi/azurebatch/blob/master/customcode/README2.md) 
 
+9) BatchAI to AMLS migration [example](https://docs.microsoft.com/en-us/previous-versions/azure/batch-ai/how-to-migrate)
+
 ### Spark 
 1) Native Apache [Spark MLlib](https://spark.apache.org/mllib/) for distributed ML<br>
 2) Databrick (example [notebooks](https://databricks.com/resources/type/example-notebook)<br>
