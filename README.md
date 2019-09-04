@@ -21,6 +21,8 @@ Videos: [Video1](https://www.youtube.com/watch?v=SphfeTl70MI), [Video2](https://
 7) Azure VMs with support of RDMA & InfiniBand:<br>
 https://docs.microsoft.com/en-us/azure/batch/batch-pool-compute-intensive-sizes#main
 
+8) HB and HC VM series: [link](https://azure.microsoft.com/en-au/blog/introducing-the-new-hb-and-hc-azure-vm-sizes-for-hpc/)
+
 8) Azure HPC environment [repo](https://github.com/Azure/azurehpc) + CycleCloud [tutorials](https://github.com/CycleCloud/cyclecloud_tutorials) & azure batch [examples](https://github.com/tojozefi/azurebatch/blob/master/customcode/README2.md) 
 
 9) BatchAI to AMLS migration [example](https://docs.microsoft.com/en-us/previous-versions/azure/batch-ai/how-to-migrate)
