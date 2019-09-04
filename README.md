@@ -21,12 +21,12 @@ Videos: [Video1](https://www.youtube.com/watch?v=SphfeTl70MI), [Video2](https://
 7) Azure VMs with support of RDMA & InfiniBand:<br>
 https://docs.microsoft.com/en-us/azure/batch/batch-pool-compute-intensive-sizes#main
 
-8) Azure HPC environment [repo](https://github.com/Azure/azurehpc) + CycleCloud [tutorials](https://github.com/CycleCloud/cyclecloud_tutorials) & batchai [examples](https://github.com/tojozefi/azurebatch/blob/master/customcode/README2.md) 
+8) Azure HPC environment [repo](https://github.com/Azure/azurehpc) + CycleCloud [tutorials](https://github.com/CycleCloud/cyclecloud_tutorials) & azure batch [examples](https://github.com/tojozefi/azurebatch/blob/master/customcode/README2.md) 
 
 9) BatchAI to AMLS migration [example](https://docs.microsoft.com/en-us/previous-versions/azure/batch-ai/how-to-migrate)
 
 ### Spark 
 1) Native Apache [Spark MLlib](https://spark.apache.org/mllib/) for distributed ML<br>
-2) Databrick (example [notebooks](https://databricks.com/resources/type/example-notebook)<br>
-3) [mmlspark](https://mmlspark.blob.core.windows.net/website/index.html): example [notebooks](https://github.com/Azure/mmlspark/tree/master/notebooks/samples)<br> & [video](https://databricks.com/session/semi-supervised-object-detection-using-the-azure-cognitive-services-on-spark]
+2) Databrick example [notebooks](https://databricks.com/resources/type/example-notebook)<br>
+3) [mmlspark](https://mmlspark.blob.core.windows.net/website/index.html): example [notebooks](https://github.com/Azure/mmlspark/tree/master/notebooks/samples) & [video](https://databricks.com/session/semi-supervised-object-detection-using-the-azure-cognitive-services-on-spark)
 
