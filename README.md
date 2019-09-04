@@ -23,8 +23,7 @@ https://docs.microsoft.com/en-us/azure/batch/batch-pool-compute-intensive-sizes#
 
 8) HB and HC VM series: [link](https://azure.microsoft.com/en-au/blog/introducing-the-new-hb-and-hc-azure-vm-sizes-for-hpc/)
 
-9) How to use AML pipelines <br>
-- pipeline [steps](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/machine-learning/service/how-to-create-your-first-pipeline.md)
+9) How to use AML pipeline [steps](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/machine-learning/service/how-to-create-your-first-pipeline.md)
 ![alt text](https://github.com/MicrosoftDocs/azure-docs/raw/master/articles/machine-learning/service/media/how-to-create-your-first-pipeline/run_an_experiment_as_a_pipeline.png)
 
 8) Azure HPC environment [repo](https://github.com/Azure/azurehpc) + CycleCloud [tutorials](https://github.com/CycleCloud/cyclecloud_tutorials) & azure batch [examples](https://github.com/tojozefi/azurebatch/blob/master/customcode/README2.md) 
